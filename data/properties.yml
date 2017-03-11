@@ -378,10 +378,14 @@ nav-up
 negative
 object-fit
 object-position
+offset
 offset-block-end
 offset-block-start
+offset-distance
 offset-inline-end
 offset-inline-start
+offset-path
+offset-rotate
 opacity
 order
 orientation
